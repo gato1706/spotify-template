@@ -1,3 +1,7 @@
+[![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 # Spotify Template 🎵
 
 Este projeto é uma recriação da interface do Spotify utilizando **Next.js** com **Tailwind CSS**, desenvolvido como parte do meu processo de aprofundamento em conceitos de **front-end moderno** e **estilização com Tailwind**.
