@@ -31,8 +31,6 @@ A interface busca ser fiel ao visual atual do Spotify Web, incluindo barra later
 
 > ⚠️ O foco é visual e de aprendizado. Este projeto **não** reproduz funcionalidades reais de reprodução de músicas ou integração com a API do Spotify.
 
-## 🚀 Como rodar localmente
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/gato1706/spotify-template
+
+
