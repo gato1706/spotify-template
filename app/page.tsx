@@ -1,25 +1,12 @@
 import {
-  Home as HomeIcon,
-  Search,
-  Library,
   ChevronLeft,
   ChevronRight,
-  Play,
-  Shuffle,
-  SkipBack,
-  SkipForward,
-  Repeat,
-  Mic2,
-  LayoutList,
-  Laptop2,
-  Volume,
-  Fullscreen,
-  Maximize2,
+  Play
 } from "lucide-react";
 import Image from "next/image";
-import Sidebar from "./components/Sidebar";
 import Footer from "./components/Footer";
 import Mix from "./components/Mix";
+import Sidebar from "./components/Sidebar";
 
 export default function Home() {
   return (

@@ -1,21 +1,8 @@
 import {
-    Home as HomeIcon,
-    Search,
-    Library,
-    ChevronLeft,
-    ChevronRight,
-    Play,
-    Shuffle,
-    SkipBack,
-    SkipForward,
-    Repeat,
-    Mic2,
-    LayoutList,
-    Laptop2,
-    Volume,
-    Fullscreen,
-    Maximize2,
-  } from "lucide-react";
+  Home as HomeIcon,
+  Library,
+  Search
+} from "lucide-react";
 
 const Sidebar = () => {
   return (

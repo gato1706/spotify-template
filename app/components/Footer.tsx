@@ -1,22 +1,15 @@
 import {
-    Home as HomeIcon,
-    Search,
-    Library,
-    ChevronLeft,
-    ChevronRight,
-    Play,
-    Shuffle,
-    SkipBack,
-    SkipForward,
-    Repeat,
-    Mic2,
-    LayoutList,
-    Laptop2,
-    Volume,
-    Fullscreen,
-    Maximize2,
-  } from "lucide-react";
-import React from 'react'
+  Laptop2,
+  LayoutList,
+  Maximize2,
+  Mic2,
+  Play,
+  Repeat,
+  Shuffle,
+  SkipBack,
+  SkipForward,
+  Volume
+} from "lucide-react";
 import Image from "next/image";
 
 

@@ -1,22 +1,3 @@
-import React from "react";
-import {
-  Home as HomeIcon,
-  Search,
-  Library,
-  ChevronLeft,
-  ChevronRight,
-  Play,
-  Shuffle,
-  SkipBack,
-  SkipForward,
-  Repeat,
-  Mic2,
-  LayoutList,
-  Laptop2,
-  Volume,
-  Fullscreen,
-  Maximize2,
-} from "lucide-react";
 import Image from "next/image";
 
 const Mix = () => {
