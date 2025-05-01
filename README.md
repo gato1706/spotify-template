@@ -31,6 +31,8 @@ A interface busca ser fiel ao visual atual do Spotify Web, incluindo barra later
 
 > ⚠️ O foco é visual e de aprendizado. Este projeto **não** reproduz funcionalidades reais de reprodução de músicas ou integração com a API do Spotify.
 
+### o projeto foi hospedado na **Vercel** neste link: https://spotify-template-seven.vercel.app/
+
 
 
 
